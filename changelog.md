@@ -1,5 +1,9 @@
 # changelog
 
+## 1.3.1
+
+ - incorporated github changes
+
 ## 1.3.0
 
  - Add support for OpenSSL 3.0
